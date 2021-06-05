@@ -138,17 +138,17 @@ nav a{
     text-align:center;
 }
 .right h1{
-    margin-top:-90px;
+   
     letter-spacing: 0.3rem;
     font-family: 'Chelsea Market', cursive;
 }
-.right h3{
+.right h2{
     font-size:20px;
     font-weight: bold;
     letter-spacing: 0.1rem;
 }
 .right p{
-     /* line-height:30px;  */
+      line-height:30px;  
     letter-spacing: 0.1rem;
     text-align:center;
     padding-left:20px;
@@ -158,59 +158,35 @@ nav a{
     font-size: 20px;
     margin-left: 20px;
     /* margin-right: 0px; */
+    
 }
-.para{
+.section2{
+    padding:30px; 
+   background-color:#DDB9A3;
+   color:rgb(247, 241, 241);
+   letter-spacing: 0.5rem;
+   margin:25px;
+}
+p .section2{
 width:auto;
 height:auto;
 /* background-color:yellow; */
 padding:50px;
-margin-top: -80px;;
-}
-.para p{
-     padding:30px; 
-    background-color:#DDB9A3;
-    color:rgb(247, 241, 241);
-    letter-spacing: 0.5rem;
-    
-}
-.image-1{
-    width: 250px;
-    height:auto;
-    margin-top:-90px;
-    text-align:center;
-
-    
 
 }
-.image-2{
-    width: 300px;
-    height:auto; 
-    text-align:center;
-    /* margin-bottom: 300px; */
+.image-section div{
+    margin:5% 0;
+  width:25%;
+  margin:0 auto;
 }
-.para1{
-     /* width:80%;  */
-    padding-left:35%;
-    padding-right:36%;
-    font-size:16px;
-     font-weight: bolder;
-     letter-spacing: .9.5px;; 
+.image-section p{
+    line-height:unset; 
+    /* padding-left:5%;
+    padding-right:5%;  */
+    letter-spacing: 2px;
+    line-height:unset;
+    text-align:left;
 }
-.para2{
-     padding-left:35%;
-    padding-right:35%; 
-    font-size:16px;
-     font-weight: bolder; 
-     /* text-align:left; */
-     /* line-height:unset; */
-     letter-spacing: .4px;;
-
+.text-of-p{
+    font-weight:bold;
 }
-/* .div-img-2{
-    width:320px;
-    height:auto;
-    border: 1px solid blue;
-
-} */
-
-
